@@ -1,5 +1,5 @@
- Hi there 👋
- I'm Luísa, nickname's lica.
+<h1> Hi there 👋
+ I'm Luísa, nickname's lica.</h1>
  
 - 🖥️ Information Systems student
 - 🌱 I’m currently learning JavaScript and HTML
