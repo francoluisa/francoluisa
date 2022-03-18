@@ -13,7 +13,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=francoluisa&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- thanks to @anuraghazra with the stats
- (https://github.com/anuraghazra/github-readme-stats) -->
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoluisa&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francoluisa)](https://github.com/anuraghazra/github-readme-stats)
