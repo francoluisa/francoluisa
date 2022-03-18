@@ -3,7 +3,7 @@
  <h2>I'm Luísa, nickname's lica.</h2>
  
 - 🖥️ Information Systems student
-- 🌱 I’m currently learning JavaScript and HTML
+- 🌱 I’m currently learning Python
 - 📫 You can reach on Twitter @sevenlica
 - 🗣️ Pronouns: She/Her
 - 🌎 Rio de Janeiro/Brazil
